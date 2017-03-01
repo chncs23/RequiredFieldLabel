@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RequiredFieldLabel.iml" filepath="$PROJECT_DIR$/RequiredFieldLabel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/requiredfieldlabel/requiredfieldlabel.iml" filepath="$PROJECT_DIR$/requiredfieldlabel/requiredfieldlabel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/requiredfieldlabel-sample/requiredfieldlabel-sample.iml" filepath="$PROJECT_DIR$/requiredfieldlabel-sample/requiredfieldlabel-sample.iml" />
+    </modules>
+  </component>
+</project>

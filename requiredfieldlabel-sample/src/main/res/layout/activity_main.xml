@@ -25,4 +25,10 @@
       android:layout_height="wrap_content"
       android:text="Hello World!"
       android:textColor="#4ce63b"/>
+
+  <CheckBox
+      android:id="@+id/checkBox"
+      android:layout_width="match_parent"
+      android:checked="true"
+      android:layout_height="wrap_content" android:text="have star"/>
 </LinearLayout>

@@ -47,6 +47,6 @@ public class RequiredFieldLabel extends AppCompatTextView {
 
     public void showRequiredField() {
         isHaveRequiredField = true;
-        this.setText(getText().toString());
+        this.setText(getText().toString().replace(" *", ""));
     }
 }

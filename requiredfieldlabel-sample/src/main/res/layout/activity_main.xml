@@ -16,6 +16,7 @@
       android:id="@+id/req_field"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
+      android:layout_marginBottom="@dimen/activity_vertical_margin"
       android:text="Hello World!"
       android:textColor="#ff9f3f"/>
 
@@ -29,6 +30,6 @@
   <CheckBox
       android:id="@+id/checkBox"
       android:layout_width="match_parent"
-      android:checked="true"
-      android:layout_height="wrap_content" android:text="have star"/>
+      android:layout_height="wrap_content"
+      android:checked="true" android:text="have star"/>
 </LinearLayout>
